@@ -1,4 +1,4 @@
-Welcome to AutomationLabs.
+# Welcome to AutomationLabs.
 
 # What is AutomationLabs?
 
